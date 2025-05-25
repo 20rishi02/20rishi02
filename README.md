@@ -34,9 +34,6 @@ Figma · Sketch · Adobe Photoshop
 ---
 
 ## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/rishiksastri/)
-- [Dribbble](https://dribbble.com/Runcadel)
 - 📧 Email: rishi95sastri@gmail.com
 
 ---
