@@ -29,7 +29,7 @@ Sentry · AzureMonitor · CloudWatch
 n8n for workflow automation
 
 **🎨 Design**  
-Figma · Sketch · Adobe XD / Photoshop / Illustrator
+Figma · Sketch · Adobe Photoshop
 
 ---
 
