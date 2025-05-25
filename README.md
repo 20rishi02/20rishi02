@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Rishikesh — Backend Platform Engineer
+
+### 🚀 Building resilient backend systems and scalable infrastructure that empower smoother developer workflows.
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Backend Platform Engineer focused on crafting scalable APIs, developer-first tooling, and infrastructure that accelerates team productivity. My work blends performance, clean architecture, and operational excellence.
+
+---
+
+## 🛠️ Skills & Toolkit
+
+**💻 Code**  
+Python · C/C++ · GoLang · JavaScript/TypeScript · HTML/CSS
+
+**⚙️ Frameworks & Runtime**  
+FastAPI · Django · Gin · Next.js · Node.js · Playwright
+
+**☁️ Cloud & Platform**  
+AWS · Azure  
+Docker & Kubernetes  
+Terraform  
+CI/CD with GitHub Actions · Jenkins
+
+**🔍 Observability & Ops**  
+Sentry · AzureMonitor · CloudWatch  
+n8n for workflow automation
+
+**🎨 Design**  
+Figma · Sketch · Adobe XD / Photoshop / Illustrator
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/rishiksastri/)
+- [Dribbble](https://dribbble.com/Runcadel)
+- 📧 Email: rishi95sastri@gmail.com
+
+---
 
 <!--
-**20rishi02/20rishi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Tagline: Building resilient backend systems and scalable infrastructure that empower smoother developer workflows.
+Short Bio: I’m a Backend Platform Engineer focused on crafting scalable APIs, developer-first tooling, and infrastructure that accelerates team productivity. My work blends performance, clean architecture, and operational excellence.
 -->
