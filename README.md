@@ -13,7 +13,7 @@ I'm a Backend Platform Engineer focused on crafting scalable APIs, developer-fir
 ## 🛠️ Skills & Toolkit
 
 **💻 Code**  
-Python · C/C++ · GoLang · JavaScript/TypeScript · HTML/CSS
+Python · GoLang · JavaScript/TypeScript · HTML/CSS
 
 **⚙️ Frameworks & Runtime**  
 FastAPI · Django · Gin · Next.js · Node.js · Playwright
