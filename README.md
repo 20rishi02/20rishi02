@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rishikesh — Backend Platform Engineer
+# 👋 Hi, I'm Rishikesh — Platform Engineer
 
 ### 🚀 Building resilient backend systems and scalable infrastructure that empower smoother developer workflows.
 
